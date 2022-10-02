@@ -1,8 +1,8 @@
 # AnaliseFinanceira_SQL
-Mini-Projeto 2 Análise Financeira com SQL e Regressão Linear em R
+##Mini-Projeto 2 Análise Financeira com SQL e Regressão Linear em R
 
-- Trabalho proposto pelo Curso de R com ML Azure - Data Science Academy.
-- A finalidade desde trabalho é desmonstrar meu entendimento d
+####Trabalho proposto pelo Curso de R com ML Azure - Data Science Academy.
+- A finalidade desde trabalho é desmonstrar meu entendimento do negócio e das habilidades técnicas necessárias para responder as questões abaixo.
 Descrição:
   -O objetivo deste mini-projeto é unir duas poderosas ferramentas de análise de dadospararesolver um problema de negócio: Linguagem SQL será usada para análise exploratória de dados através do pacote sqldf e Linguagem R será usada para análise estatística.Leia os manuais em pdf a seguir para compreender quais serão as suas atividades neste mini-projeto.  
 Abaixo as perguntas que devem ser respondidas na análise exploratória dedados com Linguagem SQL:
